@@ -1,0 +1,13 @@
+{
+  "name": "@sgbp/grid-generator",
+  "version": "1.0.0",
+  "description": "Visual CSS Grid generator with live preview and copy. Zero-dependency Web Component.",
+  "type": "module",
+  "main": "grid-generator.js",
+  "unpkg": "grid-generator.js",
+  "files": ["grid-generator.js", "README.md"],
+  "keywords": ["web-component", "custom-element", "grid layout generator", "css grid template", "grid generator"],
+  "homepage": "https://sgbp.tech/tools/css-grid-generator",
+  "author": "SGBP — Singapore Build Partners (https://sgbp.tech)",
+  "license": "MIT"
+}
